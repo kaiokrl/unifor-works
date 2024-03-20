@@ -32,6 +32,7 @@ E --> F{resto == 0}
  H --> I([FIM])
 ```
 
+
 ### Pseudocódigo
 ```
 ALGORITMO n-int-parouimpar
