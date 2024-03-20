@@ -1,3 +1,15 @@
+Curso: Ciências Da Computação
+Disciplina: Raciocínio Lógico Algorítmico
+Código/Turma: T160-39
+Professor: Ricardo Carubbi
+Data: 21/03
+Aluno(a): Kaio Damasceno Mendes
+Matrícula: 2417213
+
+1a chamada (Sim/Não): SIM
+2a chamada (Sim/Não): NÃO
+
+
 ## Q1
 
 determinar se um número inteiro e positivo é par ou ímpar
