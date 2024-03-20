@@ -1,13 +1,15 @@
-Curso: Ciências Da Computação
-Disciplina: Raciocínio Lógico Algorítmico
-Código/Turma: T160-39
-Professor: Ricardo Carubbi
-Data: 21/03
-Aluno(a): Kaio Damasceno Mendes
-Matrícula: 2417213
+<p> 
+	Curso: Ciências Da Computação <br>
+	Disciplina: Raciocínio Lógico Algorítmico <br>
+	Código/Turma: T160-39 <br>
+	Professor: Ricardo Carubbi <br>
+	Data: 21/03 <br>
+	Aluno(a): Kaio Damasceno Mendes <br>
+	Matrícula: 2417213 <br>
 
-1a chamada (Sim/Não): SIM
+1a chamada (Sim/Não): SIM <br>
 2a chamada (Sim/Não): NÃO
+</p>
 
 
 ## Q1
