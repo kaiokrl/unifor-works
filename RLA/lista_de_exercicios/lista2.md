@@ -169,7 +169,7 @@ I-->Z
 V-->Z
 ```
 ### Pseudocódigo
-```mermaid
+```
 	ALGORITMO idadenadador
 	DECLARE idade: NUMERICO int >= 5
 	DECLARE ia, ib, ja, jb, ad NUMERICO
