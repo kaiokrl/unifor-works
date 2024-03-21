@@ -337,7 +337,7 @@ A([INICIO]) --> B{{Digite um número inteiro}}
 B --> C[\numero\]
 C --> D{numero < 0}
 D --SIM--> E{{ERRO: O número deve ser positivo}}
-E --LOOP--> B
+E --LOOP--> D
 D --NAO--> F[numero_invert = 0]
 F --> G[digito = numero % 10]
 G --> H[numero_invert = `numero_invert * 10` + digito]
