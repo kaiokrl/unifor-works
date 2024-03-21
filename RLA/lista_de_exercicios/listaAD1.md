@@ -227,7 +227,7 @@ A([INICIO]) --> B{{Digite um número maior ou igual a zero}}
 B --> C[\n\]
 C --> D{n >= 0}
 D --NAO--> E{{escreva número maior ou igual a zero}}
-E --LOOP--> B
+E --LOOP--> D
 D --SIM--> F[\n\]
 F --> G[n! <- n * `n-1` * `n-2` * `n-3` * ... * 1]
 G --> H[\n!\]
