@@ -129,7 +129,7 @@ A([INICIO]) --> B{{Digite o primeiro e o último número do conjunto e uma quant
 B --> C[\ninicial, nfinal, numerotermos\]
 C --> D{numerotermos < 0}
 D --SIM--> E[ERRO: numero de termos menor que zero, digite outro valor]
-E --LOOP--> B
+E --LOOP--> D
 D --NAO--> F[numerotermo <- numerotermo]
 F --> G[somanumero <- ninicial + nfinal]
 G --> H[\somanumero\]
