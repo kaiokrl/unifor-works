@@ -281,7 +281,7 @@ A([INICIO]) --> B{{Digite o número de termos para a sequência de Fibonacci:}}
 B --> C[\n_termos\]
 C --> D{n_termos < 1}
 D --SIM--> E{{ERRO: digite número maior ou igual a 1}}
-E--LOOP--> B
+E--LOOP--> D
 D --NAO--> F[\n_termos\]
 F --> G{ENQUANTO posição_atual_termo =! n_termos}
 G --FAÇA--> H[termoatual <--  numeroanterior_1 + numeroanterior_2]
